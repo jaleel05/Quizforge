@@ -1,7 +1,7 @@
 # QuizForge - The Decision Engine
 
 > DecodeLabs Python Programming - **Project 4: The General Knowledge Quiz**
-> Pure Python. Zero dependencies. Emerald Ink + Champagne design.
+> Complete Python. Zero dependencies. Emerald Ink + Champagne design.
 
 
 
@@ -24,6 +24,5 @@ Architecture follows **IPOS**: Input -> Process -> Output, plus Storage.
 ```bash
 python app.py        # the full GUI
 python cli.py        # the plain terminal version (exact structure of the brief)
-python -m unittest -v   # 27 tests for the logic
-```
+
 
