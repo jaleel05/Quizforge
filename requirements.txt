@@ -1,0 +1,2 @@
+# QuizForge uses ONLY the Python standard library (tkinter, json, random, ...).
+# Nothing to install. On Linux you may need:  sudo apt install python3-tk
